@@ -1,0 +1,64 @@
+M48
+; DRILL file KiCad 10.0.0 date 2026-04-10T20:15:46
+; FORMAT={-:-/ absolute / metric / decimal}
+; #@! TF.CreationDate,2026-04-10T20:15:46-07:00
+; #@! TF.GenerationSoftware,Kicad,Pcbnew,10.0.0
+; #@! TF.FileFunction,MixedPlating,1,2
+FMAT,2
+METRIC
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T1C1.000
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T2C1.397
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T3C1.448
+; #@! TA.AperFunction,NonPlated,NPTH,ComponentDrill
+T4C2.700
+%
+G90
+G05
+T1
+X135.86Y-102.75
+X138.4Y-102.75
+T2
+X110.4Y-84.65
+X110.4Y-89.73
+X110.4Y-94.81
+X110.4Y-99.89
+X124.4Y-84.63
+X124.4Y-89.71
+X124.4Y-94.79
+X124.4Y-99.87
+X174.4Y-84.65
+X174.4Y-89.73
+X174.4Y-94.81
+X174.4Y-99.89
+X188.4Y-84.63
+X188.4Y-89.71
+X188.4Y-94.79
+X188.4Y-99.87
+T3
+X134.6Y-90.0
+X134.6Y-95.5
+X138.8Y-90.0
+X138.8Y-95.5
+X143.0Y-90.0
+X143.0Y-95.5
+X147.2Y-90.0
+X147.2Y-95.5
+X151.4Y-90.0
+X151.4Y-95.5
+X155.6Y-90.0
+X155.6Y-95.5
+X159.8Y-90.0
+X159.8Y-95.5
+X164.0Y-90.0
+X164.0Y-95.5
+T4
+X99.4Y-80.75
+X99.4Y-103.75
+X149.4Y-80.75
+X149.4Y-103.75
+X199.4Y-80.75
+X199.4Y-103.75
+M30
